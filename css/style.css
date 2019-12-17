@@ -212,8 +212,26 @@ Pré-carregador*/
   right: 0;
 }
 
-#intro .carousel-background img {
-  max-width: 100%;
+.carousel-background{
+  height: 100%;
+}
+
+.img1 {
+  background-image: url("../img/intro-carousel/1.jfif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.img2 {
+  background-image: url("../img/intro-carousel/2.jfif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.img3 {
+  background-image: url("../img/intro-carousel/3.jfif");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #intro .carousel-content {
